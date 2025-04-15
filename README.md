@@ -57,11 +57,11 @@ After loading the cleaned data into Power BI, the following transformations and 
 # SKILLS DEMONSTRATED
 This analysis involved multiple data processing and analytical techniques, including:
 
-Data Scraping & Transformation: Scraing data, converting it to Csv and cleaning it in PowerBI.
-Data Processing & Cleaning: Structuring data using Power Query.
-Data Analysis & Quick Measures: Creating meaningful insights with DAX measures in Power BI.
-Visualization & Reporting: Presenting findings in a clear and actionable format.
-Critical Thinking & Problem-Solving: uncovering the types of TikTok content that drive the highest engagement and identifying patterns in user interactions.
+* Data Scraping & Transformation: ScraPing data, converting it to Csv and cleaning it in PowerBI.
+* Data Processing & Cleaning: Structuring data using Power Query.
+* Data Analysis & Quick Measures: Creating meaningful insights with DAX measures in Power BI.
+* Visualization & Reporting: Presenting findings in a clear and actionable format.
+* Critical Thinking & Problem-Solving: uncovering the types of TikTok content that drive the highest engagement and identifying patterns in user interactions.
 
 # DATA ANALYSIS AND VISUALIZATION
 The analysis reveals several key insights related to the posts performances
