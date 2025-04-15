@@ -141,7 +141,7 @@ Lifestyle or casual content might perform better with clearer CTA or targeted st
 
 # DATA VISUALIZATION
 
-# OBJECTIVES/ BUSINESS PROBLEMS 
+# ANSWERS TO BUSINESS PROBLEMS 
 Using the analysis from the dataset
 ### Business Question 1: Identify the types of content that generate the highest engagement rate
 From the analysis of the top-performing posts, the types of content that generated the highest engagement rate were:
@@ -189,5 +189,47 @@ A moderate positive correlation (0.37) was found between video duration and view
 
 * Highlight CTAs in Captions:
   Encourage audience interaction with clear call-to-actions like “Comment your thoughts” or “Tag a friend learning data.”
+
+# INSIGHTS 
+* Content Type Drives Engagement
+    * Educational and career-focused posts like “Skills to Learn as a Data Analyst” and “How to Become a Data Analyst by April 2025” consistently ranked highest in 
+      engagement and views.
+    * Personal storytelling content, such as “Getting My First Job on Upwork”, also resonated well with your audience.
+    * Interestingly, the “Post with No Caption” recorded the highest engagement rate (0.74), showing that curiosity-driven or minimalist posts may perform exceptionally 
+      well.
+
+*  Longer Videos Attract More Views
+     * Videos over 3 minutes received 42,628 views, the highest across all durations.
+     * A Pearson correlation coefficient of 0.37 suggests a moderate positive relationship between video duration and view count—longer videos tend to gain more attention.
+
+* Best Posting Times and Days
+    * Monday (24K engagements) and Thursday (22K) had the highest engagement rates by day of the week.
+    * 11 AM is the best-performing hour, followed by 12 Noon and 9 AM, indicating that mid-morning is peak activity time for your audience.
+
+* Engagement Trends Over Time
+    * Engagement rate peaked at 8.06% in November 2024, dipped slightly in January, and then increased to 10.93% by April 2025. This trend suggests that content quality or 
+      topic relevance improved over time.
+
+# LIMITATIONS
+* The analysis focuses on likes, comments, shares, and views. It does not include follower growth, saves, watch-through rate, or audience demographics, which are key for a deeper understanding.
+
+* While the correlation of 0.37 is useful, it only measures linear relationships. Non-linear relationships between video attributes and engagement may have been missed.
+
+* Since the dashboard updates in real-time, metrics can shift daily, making it necessary to freeze data points when presenting or comparing over time.
+
+* The analysis did not fully separate the effects of captions, hashtags, or sound usage, which are known to impact discoverability and engagement.
+
+# RECOMMENDATIONS
+* Continue to create content around career advice, data skills, and freelancing stories, as these clearly drive engagement.
+
+* Post content between 9 AM – 12 PM, especially on Mondays and Thursdays, to align with peak user activity.
+
+* Keep creating videos over 3 minutes—they not only drive higher views but also give you more room to educate, engage, and build trust.
+
+* Experiment with different caption lengths, tones, and CTA styles to determine what boosts engagement per post.
+
+* Explore Data Beyond Engagement: Which are Follower growth over time, Audience retention, Most effective sound trends, Performance of posts by format (e.g., storytelling vs. tutorial)
+
+* Implement a snapshot report at the start of each month to track changes and prevent real-time data shifts from skewing insights.
 
 
