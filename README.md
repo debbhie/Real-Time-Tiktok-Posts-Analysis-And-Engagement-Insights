@@ -1,11 +1,11 @@
-# Tiktok-Posts-Analysis-And-Engagement-Insights
+# TIKTOK-POSTS-ANALYSIS-AND-ENGAGEMENT-INSIGHTS
 
-# Table Of Contents
+# TABLE OF CONTENTS
 
-# Real Time Tiktok Posts Analysis And Engagements Indights
+# REAL TIME TIKTOK POSTS ANALYSIS AND ENGAGEMENT INSIGHTS
 Since launching my TikTok content journey in October 2024, I have maintained a data-driven approach to track the performance of my posts. Using an automated Power BI dashboard that updates in real-time, I analyzed engagement metrics to understand what content resonates most with my audience. Key performance indicators (KPIs) such as total views, average engagement, engagement rate, and average playtime were closely monitored to guide strategic content decisions.
 
-Data Source & Extraction Process
+# DATA SOURCE & EXTRACTION PROCESS
 The dataset used in this analysis was sourced from TikTok through the ScrapTik API. Data extraction and processing were performed using Python, and the final output was saved as a CSV file for analysis.
 Below is an overview of the steps taken to ensure the dataset remains up-to-date with both existing and new posts:
 
@@ -21,5 +21,10 @@ Below is an overview of the steps taken to ensure the dataset remains up-to-date
 
 * Save as CSV: The final, merged dataset is saved as a CSV file for further analysis in Power BI.
 
-# Tools
+# TOOLS
+Python: This was used requesting for the data from Tiktok, transforming, updating and converting the data from Json to CSV file
+Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
+
+# DATA PROCESSING
+
 
