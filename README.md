@@ -54,92 +54,97 @@ Business Problem
 
 # DATA ANALYSIS AND VISUALIZATION
 The analysis reveals several key insights related to the posts performances
+
 ## Key Performance Indicators (KPIs)
-* Total Posts: Over the course of 6months of content creation, 123 videos were posted(as of time of analysis)
+* Total Posts (123):
+Shows consistent content creation and effort over six months, laying the foundation for audience growth.
 
-* Total Views: 123 posts made generated a 1,000,000 views
+* Total Views (1,000,000):
+A strong indicator of reach—demonstrates successful visibility and potential virality of the content.
 
-* Average Engagement (Likes + Comments + Shares)on these post is 688.48
+* Average Engagement (688.48):
+On average, each post attracted nearly 700 combined likes, comments, and shares—pointing to good interaction levels.
 
-* Total Likes: The likes generated is 74,000
+* Total Likes (74,000):
+Likes alone account for a significant portion of engagement, signaling positive reception from viewers.
 
-* Engagement Rate: for the contents shared is 7.71%
+* Engagement Rate (7.71%):
+Above-average engagement rate (compared to TikTok’s typical 3–6%), suggesting the content resonates with the target audience.
 
-* Average Playtime: The average time people spend watching the video is 1 minute 59 seconds
+* Average Playtime (1 min 59 secs):
+Indicates strong viewer retention, especially for a platform known for short-form content.
 
- Definitions:
+Definitions Recap
 
 * Engagement = Likes + Comments + Shares
 
-* Engagement Rate = (Likes + Comments + Shares) ÷ Views
+* Engagement Rate = Engagement ÷ Views
 
 ### Top Performing Content by Engagement
-Analyzing the top 10 posts based on total engagement: These are the contents that were performimh so high and pwople could relate with them 
+* "Skills to Learn as a Data Analyst" (15,000):
+This post performed exceptionally well—likely because it delivers practical, career-advancing value.
 
-"Skills to Learn as a Data Analyst" – 15,000 engagements
+* "How to Become a Data Analyst by April 2025" (10,000):
+Timely and goal-oriented, this content probably motivated aspirants with a clear path and deadline.
 
-"How to Become a Data Analyst by April 2025" – 10,000 engagements
-
-"Getting My First Job on Upwork" – 6,000 engagements
+* "Getting My First Job on Upwork" (6,000):
+Relatable storytelling and proof of results can drive deeper audience connection and shares.
 
 ### Views vs Duration (Matrix Chart)
-Content duration had a significant effect on views:
+* Videos Over 3 Minutes (42,628 views):
+Long-form videos had the highest view count—suggesting TikTok users are willing to watch longer educational or storytelling content.
 
-Videos over 3 minutes received the highest views at 42,628
+* 2–3 Minutes (134 views):
+Significantly fewer views, possibly due to poor structure or lack of value depth for this middle-range length.
 
-2–3 minutes duration received the lowest at 134 views
+💡 This reveals that video length plays a major role in visibility and should be optimized accordingly.
 
 ### Engagement Rate Trend (By Month & Year)
-Nov 2024: Highest engagement rate at 8.06%
+* Nov 2024 (8.06%) – Strong start in content journey.
 
-Jan 2025: Dropped slightly to 7.62%
+* Jan 2025 (7.62%) – Slight drop; could be due to holiday season or algorithm shifts.
 
-Apr 2025: Rebounded significantly to 10.93%
+* Apr 2025 (10.93%) – Spike in engagement, likely due to highly relevant or viral posts.
+
+📌 Monitoring month-over-month trends helps identify peak seasons and high-performing content styles.
 
 ### Engagement by Day of the Week
-Monday had the highest engagement at 24,000
+* Monday (24,000) & Thursday (22,000):
+These are peak days for audience activity. Posting on these days can maximize reach and interaction.
 
-Followed by Thursday with 22,000
+* Sunday (1,000):
+Lowest engagement—content posted on Sundays might need to be rescheduled or boosted.
 
-Wednesday & Saturday: 11,000 each
-
-Friday: 10,000
-
-Tuesday: 5,000
-
-Sunday: 1,000
+🗓️ Ideal posting days: Monday & Thursday.
 
 ### Correlation Between Views and Video Duration
-The Pearson correlation coefficient was calculated to be 0.37
+* Pearson Correlation = 0.37:
+A moderate positive correlation means that longer videos tend to receive more views.
 
-This indicates a moderate positive relationship between video duration and view count
+💡 Viewers are more engaged when videos are longer, especially if the content is insightful or storytelling-driven.
 
 Note: Calculated manually using Pearson’s formula, as Power BI does not currently support the CORR() function natively.
 
 ### Top 5 Most Liked Posts
-"Skills to Learn as a Data Analyst" – 13,000 likes
+* "Skills to Learn as a Data Analyst" (13,000 likes):
+Educational, career-focused content clearly resonates most.
 
-"How to Become a Data Analyst by April 2025" – 8,700 likes
-
-"Getting a Job on Upwork" – 5,500 likes
-
-"Truth About Data Analysis Career and Job" – 3,100 likes
-
-"Best Way to Learn Data Analysis" – 2,500 likes
+Other posts that combine relatable stories, clear tips, and personal experience also performed well.
 
 ### Total Engagement by Hour of Day
-11 AM – 41,000 engagements
+* 11 AM (41,000) & 12 Noon (24,000):
+Best-performing hours—viewers are highly active around late mornings to midday.
 
-12 Noon – 24,000 engagements
+* 1 PM (890):
+A noticeable drop—suggesting lower attention span post-lunch.
 
-9 AM – 16,000 engagements
-
-1 PM – 890 engagements
-
+⏱️ Optimal posting time: between 9 AM and 12 PM.
 
 ### Top 3 Posts by Engagement Rate (Per Post)
-"Post with No Caption" – Engagement rate: 0.74
+* "Post with No Caption" (0.74):
+Surprisingly, captionless content drew more engagement—possibly due to curiosity or authenticity.
 
-"Grocery Shopping" – Engagement rate: 0.15
+* "Grocery Shopping" (0.15) & "Let Me Know" (0.14):
+Lifestyle or casual content might perform better with clearer CTA or targeted storytelling.
 
-"Let Me Know" – Engagement rate: 0.14
+
