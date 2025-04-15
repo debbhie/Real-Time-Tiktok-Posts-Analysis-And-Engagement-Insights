@@ -170,8 +170,10 @@ Surprisingly, captionless content drew more engagement—possibly due to curiosi
 
 * "Grocery Shopping" (0.15) & "Let Me Know" (0.14):
 Lifestyle or casual content might perform better with clearer CTA or targeted storytelling.
+![TT eng rate by des](https://github.com/user-attachments/assets/df32a7ed-4479-45ce-8ff3-40d3e380752d)
 
 # DATA VISUALIZATION
+![My tt dashboard](https://github.com/user-attachments/assets/a7a20412-fae9-4a5d-9031-019087b66898)
 
 # ANSWERS TO BUSINESS PROBLEMS 
 Using the analysis from the dataset
