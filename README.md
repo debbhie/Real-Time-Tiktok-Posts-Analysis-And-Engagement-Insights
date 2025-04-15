@@ -31,4 +31,23 @@ After loading the cleaned data into Power BI, the following transformations and 
 
 * Date column breakdown: Date was extracted from Date/Time column
 * Duration column: Duration was changed from milliseconds to HH:MM:SS (Total Play Time)
-* Creation of some new columns for dax formulars. One of such is the engagement Rate per post column.
+* Creation of some new columns for dax formulars:
+     Engagement Rate per post column.
+     Duration Bin and view bin column
+
+# SKILLS DEMONSTRATED
+This analysis involved multiple data processing and analytical techniques, including:
+
+Data Scraping & Transformation: Scraing data, converting it to Csv and cleaning it in PowerBI.
+Data Processing & Cleaning: Structuring data using Power Query.
+Data Analysis & Quick Measures: Creating meaningful insights with DAX measures in Power BI.
+Visualization & Reporting: Presenting findings in a clear and actionable format.
+Critical Thinking & Problem-Solving: uncovering the types of TikTok content that drive the highest engagement and identifying patterns in user interactions.
+
+# OBJECTIVES/ PROBLEM STATEMENT
+Business Problem
+* Identify the types of content that generate the highest engagement rate
+
+* Discover patterns that lead to higher likes, comments, shares, and views
+
+* Determine effective strategies to increase audience engagement
