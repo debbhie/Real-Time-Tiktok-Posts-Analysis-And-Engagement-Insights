@@ -1,7 +1,18 @@
 # TIKTOK-POSTS-ANALYSIS-AND-ENGAGEMENT-INSIGHTS
 
 # TABLE OF CONTENTS
-
+- [REAL TIME TIKTOK POSTS ANALYSIS AND ENGAGEMENT INSIGHTS](#real-time-tiktok-posts-and-engagement-insights)
+- [DATA SOURCE & EXTRACTION PROCESS](#data-source-&-extraction-process)
+- [TOOLS](#tools)
+- [DATA PROCESSING](#data-processing)
+- [SKILLS DEMONSTRATED](#skills-demonstrated)
+- [DATA ANALYSIS AND VISUALIZATION](#data-analysis-and-visualization)
+- [DATA VISUALIZATION](#data-visualization)
+- [ANSWERS TO BUSINESS PROBLEMS](#answers-to-business-problems)
+- [INSIGHTS](#insights)
+- [LIMITATIONS](#limitations)
+- [RECOMMENDATIONS](#recommendations)
+  
 # REAL TIME TIKTOK POSTS ANALYSIS AND ENGAGEMENT INSIGHTS
 Since launching my TikTok content journey in October 2024, I have maintained a data-driven approach to track the performance of my posts. Using an automated Power BI dashboard that updates in real-time, I analyzed engagement metrics to understand what content resonates most with my audience. Key performance indicators (KPIs) such as total views, average engagement, engagement rate, and average playtime were closely monitored to guide strategic content decisions.
 
