@@ -37,8 +37,8 @@ Below is an overview of the steps taken to ensure the dataset remains up-to-date
 ![TT python4](https://github.com/user-attachments/assets/54d8c788-de0c-421e-b37d-33db94ff51fe)
 
 # TOOLS
-Python: This was used requesting for the data from Tiktok, transforming, updating and converting the data from Json to CSV file
-Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
+* Python: This was used requesting for the data from Tiktok, transforming, updating and converting the data from Json to CSV file.
+* Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
 
 # DATA PROCESSING
 Data Preparation in Power BI:
