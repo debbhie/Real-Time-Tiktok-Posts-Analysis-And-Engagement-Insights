@@ -44,14 +44,6 @@ Data Analysis & Quick Measures: Creating meaningful insights with DAX measures i
 Visualization & Reporting: Presenting findings in a clear and actionable format.
 Critical Thinking & Problem-Solving: uncovering the types of TikTok content that drive the highest engagement and identifying patterns in user interactions.
 
-# OBJECTIVES/ PROBLEM STATEMENT
-Business Problem
-* Identify the types of content that generate the highest engagement rate
-
-* Discover patterns that lead to higher likes, comments, shares, and views
-
-* Determine effective strategies to increase audience engagement
-
 # DATA ANALYSIS AND VISUALIZATION
 The analysis reveals several key insights related to the posts performances
 
@@ -146,5 +138,56 @@ Surprisingly, captionless content drew more engagement—possibly due to curiosi
 
 * "Grocery Shopping" (0.15) & "Let Me Know" (0.14):
 Lifestyle or casual content might perform better with clearer CTA or targeted storytelling.
+
+# DATA VISUALIZATION
+
+# OBJECTIVES/ BUSINESS PROBLEMS 
+Using the analysis from the dataset
+### Business Question 1: Identify the types of content that generate the highest engagement rate
+From the analysis of the top-performing posts, the types of content that generated the highest engagement rate were:
+
+* Educational & Career-Oriented Content:
+      "Skills to Learn as a Data Analyst" had the highest engagement (15,000 interactions).
+      "How to Become a Data Analyst by April 2025" and "Getting My First Job on Upwork" also ranked high in both engagement rate and total likes.
+
+* Authentic & Relatable Stories:
+      Posts that involved personal experiences (like getting jobs or wins as a data analyst) had higher resonance and emotional connection with viewers.
+      Captionless or Casual Content: Interestingly, "Post with No Caption" had the highest engagement rate per view (0.74), suggesting that simplicity and intrigue may also drive audience actions.
+
+### Business Question 2: Discover patterns that lead to higher likes, comments, shares, and views
+📊 Observed Patterns:
+⏰ By Time of Day
+* Best Posting Time:
+     11 AM generated the highest engagement (41,000), followed by 12 Noon (24,000). Engagement significantly dropped after 1 PM, suggesting late morning is optimal.
+
+📅 By Day of the Week
+* Top Days:
+    Monday and Thursday had the highest engagement, indicating these are the most active days for your audience.
+
+⏱️ By Video Duration
+* Longer Videos Perform Better:
+    Videos over 3 minutes received 42,628 views, the highest across all durations. Videos between 2–3 minutes performed the worst (only 134 views).
+
+🔄 Correlation Insight
+A moderate positive correlation (0.37) was found between video duration and view count, meaning longer videos tend to receive more views.
+
+### Business Question 3: Determine effective strategies to increase audience engagement
+* Double Down on Educational Content:
+    Posts that offer tips, career guidance, and skills advice get higher interaction—create more of these.
+
+* Use Strategic Posting Times:
+    Post between 9 AM and 12 PM, especially on Mondays and Thursdays, to maximize engagement.
+
+* Prioritize Long-Form Videos (3+ minutes):
+    These drive more views and allow deeper storytelling, which can boost shares and likes.
+
+* Test Simpler Content Styles:
+    Posts without captions or casual formats can perform surprisingly well. Use A/B testing to balance between structured and natural content.
+
+* Incorporate Personal Stories:
+   Sharing your journey (e.g., first job wins, struggles, milestones) creates relatability and encourages engagement.
+
+* Highlight CTAs in Captions:
+  Encourage audience interaction with clear call-to-actions like “Comment your thoughts” or “Tag a friend learning data.”
 
 
