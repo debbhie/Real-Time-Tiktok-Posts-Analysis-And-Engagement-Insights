@@ -51,3 +51,95 @@ Business Problem
 * Discover patterns that lead to higher likes, comments, shares, and views
 
 * Determine effective strategies to increase audience engagement
+
+# DATA ANALYSIS AND VISUALIZATION
+The analysis reveals several key insights related to the posts performances
+## Key Performance Indicators (KPIs)
+* Total Posts: Over the course of 6months of content creation, 123 videos were posted(as of time of analysis)
+
+* Total Views: 123 posts made generated a 1,000,000 views
+
+* Average Engagement (Likes + Comments + Shares)on these post is 688.48
+
+* Total Likes: The likes generated is 74,000
+
+* Engagement Rate: for the contents shared is 7.71%
+
+* Average Playtime: The average time people spend watching the video is 1 minute 59 seconds
+
+ Definitions:
+
+* Engagement = Likes + Comments + Shares
+
+* Engagement Rate = (Likes + Comments + Shares) ÷ Views
+
+### Top Performing Content by Engagement
+Analyzing the top 10 posts based on total engagement: These are the contents that were performimh so high and pwople could relate with them 
+
+"Skills to Learn as a Data Analyst" – 15,000 engagements
+
+"How to Become a Data Analyst by April 2025" – 10,000 engagements
+
+"Getting My First Job on Upwork" – 6,000 engagements
+
+### Views vs Duration (Matrix Chart)
+Content duration had a significant effect on views:
+
+Videos over 3 minutes received the highest views at 42,628
+
+2–3 minutes duration received the lowest at 134 views
+
+### Engagement Rate Trend (By Month & Year)
+Nov 2024: Highest engagement rate at 8.06%
+
+Jan 2025: Dropped slightly to 7.62%
+
+Apr 2025: Rebounded significantly to 10.93%
+
+### Engagement by Day of the Week
+Monday had the highest engagement at 24,000
+
+Followed by Thursday with 22,000
+
+Wednesday & Saturday: 11,000 each
+
+Friday: 10,000
+
+Tuesday: 5,000
+
+Sunday: 1,000
+
+### Correlation Between Views and Video Duration
+The Pearson correlation coefficient was calculated to be 0.37
+
+This indicates a moderate positive relationship between video duration and view count
+
+Note: Calculated manually using Pearson’s formula, as Power BI does not currently support the CORR() function natively.
+
+### Top 5 Most Liked Posts
+"Skills to Learn as a Data Analyst" – 13,000 likes
+
+"How to Become a Data Analyst by April 2025" – 8,700 likes
+
+"Getting a Job on Upwork" – 5,500 likes
+
+"Truth About Data Analysis Career and Job" – 3,100 likes
+
+"Best Way to Learn Data Analysis" – 2,500 likes
+
+### Total Engagement by Hour of Day
+11 AM – 41,000 engagements
+
+12 Noon – 24,000 engagements
+
+9 AM – 16,000 engagements
+
+1 PM – 890 engagements
+
+
+### Top 3 Posts by Engagement Rate (Per Post)
+"Post with No Caption" – Engagement rate: 0.74
+
+"Grocery Shopping" – Engagement rate: 0.15
+
+"Let Me Know" – Engagement rate: 0.14
