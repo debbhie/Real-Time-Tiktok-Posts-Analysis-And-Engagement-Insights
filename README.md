@@ -26,5 +26,9 @@ Python: This was used requesting for the data from Tiktok, transforming, updatin
 Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
 
 # DATA PROCESSING
+Data Preparation in Power BI:
+After loading the cleaned data into Power BI, the following transformations and enhancements were made:
 
-
+* Date column breakdown: Date was extracted from Date/Time column
+* Duration column: Duration was changed from milliseconds to HH:MM:SS (Total Play Time)
+* Creation of some new columns for dax formulars. One of such is the engagement Rate per post column.
