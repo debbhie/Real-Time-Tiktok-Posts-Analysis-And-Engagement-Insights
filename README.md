@@ -45,10 +45,14 @@ Data Preparation in Power BI:
 After loading the cleaned data into Power BI, the following transformations and enhancements were made:
 
 * Date column breakdown: Date was extracted from Date/Time column
+![TT date column](https://github.com/user-attachments/assets/158ceaf3-6534-4701-aab8-412be94ebe29)
 * Duration column: Duration was changed from milliseconds to HH:MM:SS (Total Play Time)
 * Creation of some new columns for dax formulars:
-     Engagement Rate per post column.
+     Engagement Rate per post column
+  ![TT eng column](https://github.com/user-attachments/assets/4bc183e4-2c18-431e-9e4c-1371079df6cc)
+  
      Duration Bin and view bin column
+![TT view bin col](https://github.com/user-attachments/assets/194d821d-14d4-421a-b237-7f8b7ffa1b04)
 
 # SKILLS DEMONSTRATED
 This analysis involved multiple data processing and analytical techniques, including:
@@ -65,21 +69,27 @@ The analysis reveals several key insights related to the posts performances
 ## Key Performance Indicators (KPIs)
 * Total Posts (123):
 Shows consistent content creation and effort over six months, laying the foundation for audience growth.
+![TT total post](https://github.com/user-attachments/assets/b5a5d5cf-c6c7-40f1-8d7e-972e3940450a)
 
 * Total Views (1,000,000):
 A strong indicator of reach—demonstrates successful visibility and potential virality of the content.
+![TT total views](https://github.com/user-attachments/assets/fd333911-e272-422f-8a65-d190bb91032a)
 
 * Average Engagement (688.48):
 On average, each post attracted nearly 700 combined likes, comments, and shares—pointing to good interaction levels.
+![TT avg eng](https://github.com/user-attachments/assets/3ec8762b-aaa8-4a06-b70d-777391cc880c)
 
 * Total Likes (74,000):
 Likes alone account for a significant portion of engagement, signaling positive reception from viewers.
+![TT total likes](https://github.com/user-attachments/assets/72645e15-dec8-4a57-bd44-2fa4a85bd4a8)
 
 * Engagement Rate (7.71%):
 Above-average engagement rate (compared to TikTok’s typical 3–6%), suggesting the content resonates with the target audience.
+![TT eng rate](https://github.com/user-attachments/assets/e1c8935d-5aae-4c28-80d1-0bd43ddf27c3)
 
 * Average Playtime (1 min 59 secs):
 Indicates strong viewer retention, especially for a platform known for short-form content.
+![TT avg pt](https://github.com/user-attachments/assets/bdc4c9fe-e4ef-41b2-956b-a957c1e62255)
 
 Definitions Recap
 
@@ -96,6 +106,7 @@ Timely and goal-oriented, this content probably motivated aspirants with a clear
 
 * "Getting My First Job on Upwork" (6,000):
 Relatable storytelling and proof of results can drive deeper audience connection and shares.
+![TT eng by des](https://github.com/user-attachments/assets/fa923d67-dda7-4e9f-bc3d-bf0c9dbb6076)
 
 ### Views vs Duration (Matrix Chart)
 * Videos Over 3 Minutes (42,628 views):
@@ -105,6 +116,7 @@ Long-form videos had the highest view count—suggesting TikTok users are willin
 Significantly fewer views, possibly due to poor structure or lack of value depth for this middle-range length.
 
 💡 This reveals that video length plays a major role in visibility and should be optimized accordingly.
+![TT matrix](https://github.com/user-attachments/assets/22e0a01e-72a6-4712-acbc-bd0bd358cdea)
 
 ### Engagement Rate Trend (By Month & Year)
 * Nov 2024 (8.06%) – Strong start in content journey.
@@ -114,6 +126,7 @@ Significantly fewer views, possibly due to poor structure or lack of value depth
 * Apr 2025 (10.93%) – Spike in engagement, likely due to highly relevant or viral posts.
 
 📌 Monitoring month-over-month trends helps identify peak seasons and high-performing content styles.
+![TT eng by yr ](https://github.com/user-attachments/assets/71335f6a-0490-4ecf-8688-211744a42f1f)
 
 ### Engagement by Day of the Week
 * Monday (24,000) & Thursday (22,000):
@@ -123,6 +136,7 @@ These are peak days for audience activity. Posting on these days can maximize re
 Lowest engagement—content posted on Sundays might need to be rescheduled or boosted.
 
 🗓️ Ideal posting days: Monday & Thursday.
+![TT eng by week](https://github.com/user-attachments/assets/25138068-cec4-47ff-a76c-8eb50415655a)
 
 ### Correlation Between Views and Video Duration
 * Pearson Correlation = 0.37:
@@ -131,12 +145,14 @@ A moderate positive correlation means that longer videos tend to receive more vi
 💡 Viewers are more engaged when videos are longer, especially if the content is insightful or storytelling-driven.
 
 Note: Calculated manually using Pearson’s formula, as Power BI does not currently support the CORR() function natively.
+![TT view vs durt](https://github.com/user-attachments/assets/245fbd2d-c5ba-4d41-8166-0a1affe30dc9)
 
 ### Top 5 Most Liked Posts
 * "Skills to Learn as a Data Analyst" (13,000 likes):
 Educational, career-focused content clearly resonates most.
 
 Other posts that combine relatable stories, clear tips, and personal experience also performed well.
+![TT likes by desc](https://github.com/user-attachments/assets/4e9244ac-13a7-46a1-bfe4-4018bf49b1d9)
 
 ### Total Engagement by Hour of Day
 * 11 AM (41,000) & 12 Noon (24,000):
@@ -146,6 +162,7 @@ Best-performing hours—viewers are highly active around late mornings to midday
 A noticeable drop—suggesting lower attention span post-lunch.
 
 ⏱️ Optimal posting time: between 9 AM and 12 PM.
+![TT hr by eng](https://github.com/user-attachments/assets/7eb6bc9c-fdb6-41fa-beb0-245a49474a5a)
 
 ### Top 3 Posts by Engagement Rate (Per Post)
 * "Post with No Caption" (0.74):
