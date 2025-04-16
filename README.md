@@ -23,7 +23,7 @@ Below is an overview of the steps taken to ensure the dataset remains up-to-date
 * API Request: A request was sent to the TikTok API endpoint using my unique user_id to retrieve post data.
 
 * Read Existing Data: The script first reads from the existing CSV file and identifies already stored posts using their post_id.
-![TT python](https://github.com/user-attachments/assets/c9330ea3-cd45-4df6-b183-54d82f242e41)
+
 
 * Fetch New Data: A JSON request is made to retrieve additional data from the TikTok profile, if available.
 ![TT python2](https://github.com/user-attachments/assets/3c091870-0e79-4acb-ac90-b88d8a05fe6c)
