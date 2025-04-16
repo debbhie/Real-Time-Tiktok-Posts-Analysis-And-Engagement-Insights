@@ -24,17 +24,13 @@ Below is an overview of the steps taken to ensure the dataset remains up-to-date
 
 * Read Existing Data: The script first reads from the existing CSV file and identifies already stored posts using their post_id.
 
-
-* Fetch New Data: A JSON request is made to retrieve additional data from the TikTok profile, if available.
-![TT python2](https://github.com/user-attachments/assets/3c091870-0e79-4acb-ac90-b88d8a05fe6c)
+* Fetch New Data: A JSON request is made to retrieve additional data from the TikTok profile, if available
 
 * Update and Merge: Existing posts are updated with any new metrics, and new posts are appended to the dataset.
-![TT python3](https://github.com/user-attachments/assets/b42c93e0-96b3-4355-9160-833b28de00ee)
 
 * Data Formatting: The updated and newly fetched posts are processed and formatted uniformly.
 
 * Save as CSV: The final, merged dataset is saved as a CSV file for further analysis in Power BI.
-![TT python4](https://github.com/user-attachments/assets/54d8c788-de0c-421e-b37d-33db94ff51fe)
 
 # TOOLS
 * Python: This was used requesting for the data from Tiktok, transforming, updating and converting the data from Json to CSV file.
