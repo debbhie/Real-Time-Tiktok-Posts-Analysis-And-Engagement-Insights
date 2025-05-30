@@ -1,5 +1,12 @@
 # TIKTOK-POSTS-ANALYSIS-AND-ENGAGEMENT-INSIGHTS
 
+## Folders
+
+* `Dashboard/`: Power BI file
+- `Reports/`: Monthly progress reports
+- `Script/`: Python script for extracting data
+
+
 # TABLE OF CONTENTS
 - [REAL TIME TIKTOK POSTS ANALYSIS AND ENGAGEMENT INSIGHTS](#real-time-tiktok-posts-and-engagement-insights)
 - [DATA SOURCE & EXTRACTION PROCESS](#data-source-&-extraction-process)
@@ -53,8 +60,3 @@ This analysis involved multiple data processing and analytical techniques, inclu
 * Visualization & Reporting: Presenting findings in a clear and actionable format.
 * Critical Thinking & Problem-Solving: uncovering the types of TikTok content that drive the highest engagement and identifying patterns in user interactions.
 
-## Folders
-
-* `Dashboard/`: Power BI file
-- `Reports/`: Monthly progress reports
-- `Script/`: Python script for extracting data
