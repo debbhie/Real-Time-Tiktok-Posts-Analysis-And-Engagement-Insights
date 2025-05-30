@@ -1,8 +1,7 @@
 # TIKTOK-POSTS-ANALYSIS-AND-ENGAGEMENT-INSIGHTS
 
-## Folders
-
-* `Dashboard/`: Power BI file
+## FOLDERS
+- `Dashboard/`: Power BI file
 - `Reports/`: Monthly progress reports
 - `Script/`: Python script for extracting data
 
