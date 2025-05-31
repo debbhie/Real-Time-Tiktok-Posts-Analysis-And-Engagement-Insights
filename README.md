@@ -57,8 +57,8 @@ Connecting the python script into Power BI, the following transformations and en
 # SKILLS DEMONSTRATED
 This analysis involved multiple data processing and analytical techniques, including:
 
-* Data Scraping & Transformation: Scraping data, converting it to Csv and cleaning it in PowerBI.
-* Data Processing & Cleaning: Structuring data using Power Query.
+* Data Scraping & Transformation: Scraping data, converting it to CSV and connecting python script to PowerBI for automation when refreshed.
+* Data Processing & Cleaning: cleaning it in PowerBI and Structuring data using Power Query.
 * Data Analysis & Quick Measures: Creating meaningful insights with DAX measures in Power BI.
 * Visualization & Reporting: Presenting findings in a clear and actionable format.
 * Critical Thinking & Problem-Solving: uncovering the types of TikTok content that drive the highest engagement and identifying patterns in user interactions.
